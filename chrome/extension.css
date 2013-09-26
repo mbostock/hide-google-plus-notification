@@ -1,4 +1,5 @@
-#gbg1,
-#sb-button-notify {
-  display: none;
+.gb_pa,
+.gb_ka,
+.gb_ia {
+  display: none !important;
 }
