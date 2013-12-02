@@ -1,5 +1,5 @@
-.gb_pa,
-.gb_ka,
-.gb_ia {
+a[href^='https://plus.google.com/u/0/notifications/'],
+a[href^='https://plus.google.com/u/0/stream/'],
+a[href^='https://plus.google.com/u/0/?tab='] {
   display: none !important;
 }
