@@ -1,5 +1,6 @@
 a[href^='https://plus.google.com/u/0/notifications/'],
 a[href^='https://plus.google.com/u/0/stream/'],
-a[href^='https://plus.google.com/u/0/?tab='] {
+a[href^='https://plus.google.com/u/0/?'],
+a[href='https://plus.google.com/u/0/'] {
   display: none !important;
 }
